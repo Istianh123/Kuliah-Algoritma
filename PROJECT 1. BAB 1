@@ -16,12 +16,7 @@ print("Hasil Pembagian:", bagi)
 print("Sisa Pembagian:", mod)
 
 Penjelasan: Kode di atas menginisialisasi dua variabel a dan b dengan nilai 10 dan 5. Kemudian dilakukan operasi aritmatika seperti penjumlahan, pengurangan, perkalian, pembagian, dan modulus menggunakan operator matematika yang sesuai. Hasil dari masing-masing operasi tersebut dicetak menggunakan perintah print().
-2. Kode Python untuk mencetak informasi pribadi:
-# Informasi Pribadi
-nama = "istianah"
-alamat = "begende, merembu, lombok barat, nusa tenggara barat"
-nomor_telepon = "087859240562"
-
+2. Kode Python untuk mencetak informasi pribadi
 print("Nama:", nama)
 print("Alamat:", alamat)
 print("Nomor Telepon:", nomor_telepon)
